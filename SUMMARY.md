@@ -74,10 +74,10 @@
 * [9.2 如何使用](9.akraino/9.2.content.md)
 * [9.3 架构介绍](9.akraino/9.3.content.md)
 
-## 10.openness <a id="readme"></a>
+## 10.openness
 
-* [10.0 大纲](readme/readme.md)
-* [10.1 概述](readme/10.1.content.md)
-* [10.2 如何使用](readme/10.2.content-1.md)
-* [10.3 架构介绍](readme/10.2.content.md)
+* [10.0 大纲](10.openness/readme.md)
+* [10.1 概述](10.openness/10.1.content.md)
+* [10.2 如何使用](10.openness/10.2.content-1.md)
+* [10.3 架构介绍](10.openness/10.2.content.md)
 
