@@ -1,7 +1,3 @@
----
-description: 'Ower:'
----
-
 # README
 
 ## 1. 目标
