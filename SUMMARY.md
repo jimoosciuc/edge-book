@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
 
 ## 1.abstract
 
@@ -8,37 +8,37 @@
 
 ## 2.scene
 
-* [Untitled](2.scene/untitled.md)
+* [README](2.scene/readme.md)
 
 ## 3.k3s
 
-* [Untitled](3.k3s/untitled.md)
+* [README](3.k3s/readme.md)
 
 ## 4.kubeedge
 
-* [Untitled](4.kubeedge/untitled.md)
+* [README](4.kubeedge/readme.md)
 
 ## 5.openyurt
 
-* [Untitled](5.openyurt/untitled.md)
+* [README](5.openyurt/readme.md)
 
 ## 6.superedge
 
-* [Untitled](6.superedge/untitled.md)
+* [README](6.superedge/readme.md)
 
 ## 7.edgex-foundry
 
-* [Untitled](7.edgex-foundry/untitled.md)
+* [README](7.edgex-foundry/readme.md)
 
 ## 8.starlingx
 
-* [Untitled](8.starlingx/untitled.md)
+* [README](8.starlingx/readme.md)
 
 ## 9.akraino
 
-* [Untitled](9.akraino/untitled.md)
+* [README](9.akraino/readme.md)
 
 ## 10.openness
 
-* [Untitled](10.openness/untitled.md)
+* [README](10.openness/readme.md)
 
