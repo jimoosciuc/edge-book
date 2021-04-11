@@ -5,11 +5,17 @@
 ## 1.abstract
 
 * [README](1.abstract/1.abstract.md)
-* [1.1简述](1.abstract/1.1.content.md)
+* [1.1 简述](1.abstract/1.1.content.md)
+* [1.2 边缘参与者](1.abstract/1.2.content.md)
+* [1.3 云生态](1.abstract/1.3.content.md)
+* [1.4 边缘生态](1.abstract/1.4.content.md)
 
-## 2.scene
+## 2. 应用场景 <a id="2.scene"></a>
 
-* [README](2.scene/2.scene.md)
+* [2.0 大纲](2.scene/2.scene.md)
+* [2.1 按地域划分](2.scene/1.2.content.md)
+* [2.2 按技术领域划分](2.scene/2.2.content.md)
+* [2.3 按业务场景划分](2.scene/2.3.content.md)
 
 ## 3.k3s
 
