@@ -61,11 +61,13 @@
 
 * [8.0 大纲](8.starlingx/readme.md)
 * [8.1 starlings概述](8.starlingx/8.1.content.md)
-* [8.2 如何使用](8.starlingx/8.2.content.md)
+* [8.1.1 基本术语](8.starlingx/8.1.1-ji-ben-shu-yu.md)
+* [8.2 关键组件介绍](8.starlingx/8.2-guan-jian-zu-jian-jie-shao.md)
 * [8.3 架构介绍](8.starlingx/8.3.content.md)
-* [8.4 关键组件剖析](8.starlingx/8.4.content.md)
-* [8.5 深度调研](8.starlingx/8.5.content.md)
-* [8.6 starlingx未来的方向](8.starlingx/8.6.content.md)
+* [8.4 如何使用](8.starlingx/8.2.content.md)
+* [8.5 关键组件剖析](8.starlingx/8.4.content.md)
+* [8.6 深度调研](8.starlingx/8.5.content.md)
+* [8.7 starlingx未来的方向](8.starlingx/8.6.content.md)
 
 ## 9.akraino
 
