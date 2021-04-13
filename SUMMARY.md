@@ -64,6 +64,8 @@
 * [8.1.1 基本术语](8.starlingx/8.1.1-ji-ben-shu-yu.md)
 * [8.2 关键组件介绍](8.starlingx/8.2-guan-jian-zu-jian-jie-shao.md)
 * [8.3 架构介绍](8.starlingx/8.3.content.md)
+* [8.3.2 外部架构](8.starlingx/8.3.2-wai-bu-jia-gou.md)
+* [8.3.1 内部架构](8.starlingx/8.3.1-nei-bu-jia-gou.md)
 * [8.4 如何使用](8.starlingx/8.2.content.md)
 * [8.5 关键组件剖析](8.starlingx/8.4.content.md)
 * [8.6 深度调研](8.starlingx/8.5.content.md)
