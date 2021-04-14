@@ -67,7 +67,10 @@
   * [8.2.1 内部架构](8.starlingx/8.3.content/8.3.1-nei-bu-jia-gou.md)
 * [8.3 关键组件介绍](8.starlingx/8.2-guan-jian-zu-jian-jie-shao.md)
 * [8.4 关键组件剖析](8.starlingx/8.4.content.md)
-* [8.5 如何使用](8.starlingx/8.2.content.md)
+* [8.5 如何使用](8.starlingx/8.2.content/README.md)
+  * [8.5.1 All-in-one Simplex](8.starlingx/8.2.content/8.5.1-all-in-one-simplex.md)
+  * [8.5.2 All-in-one Duplex](8.starlingx/8.2.content/8.5.2-all-in-one-duplex.md)
+  * [8.5.3 Dedicated Storage](8.starlingx/8.2.content/8.5.3-dedicated-storage.md)
 * [8.6 深度调研](8.starlingx/8.5.content.md)
 * [8.7 starlingx未来的方向](8.starlingx/8.6.content.md)
 
