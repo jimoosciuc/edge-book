@@ -6,7 +6,7 @@ description: 简要（官网、github、背后公司、社区情况）是什么�
 
 ### 简要
 
-    StarlingX的官方网站是是 [https://www.starlingx.io/](https://www.starlingx.io/) , 此网站清楚的介绍了StarlingX的现状，用途。StarlingX是完整的云基础设施软件技术栈，用于工业物联网，电信，视频交付和其他超低延迟用例中条件最苛刻的应用程序的场景里。由于边缘应用必须具备低延迟，以及使分布式边缘节点可管理的工具，StarlingX为边缘解决计算的实现提供了一个基于容器的基础设施，可伸缩的解决方案，并且现在已经可以投入生产，总架构图如下图所示。
+    StarlingX的官方网站是 [https://www.starlingx.io/](https://www.starlingx.io/) , 此网站清楚的介绍了StarlingX的现状，用途。StarlingX是完整的云基础设施软件技术栈，用于工业物联网，电信，视频交付和其他超低延迟用例中条件最苛刻的应用程序的场景里。由于边缘应用必须具备低延迟，以及使分布式边缘节点可管理的工具，StarlingX为边缘解决计算的实现提供了一个基于容器的基础设施，可伸缩的解决方案，并且现在已经可以投入生产，总架构图如下图所示。
 
 ![StarlingX &#x67B6;&#x6784;&#x56FE;](../image/starlingx_diagram_distributededgecloudnative_v2.jpg)
 

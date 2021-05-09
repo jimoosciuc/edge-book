@@ -33,3 +33,10 @@ description: 'Ower: 王冬'
 * 边缘能力介绍： [https://mp.weixin.qq.com/s/V29ga-fOM2KEq-dlKo-FuA](https://mp.weixin.qq.com/s/V29ga-fOM2KEq-dlKo-FuA)
 * 组件介绍（组件能力、组件架构图、关键部分源码剖析）
 
+## 6.4 核心组件剖析
+
+-   servicegroup
+-   tunnel
+-   lite-apiserver
+-   edge-health
+
