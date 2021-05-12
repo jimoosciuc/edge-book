@@ -19,12 +19,12 @@
 
 ## 3.K3s和fleet <a id="3.k3s"></a>
 
-* [3.0 大纲](3.k3s/3.k3s.md)
-* [3.1 K3s概述](3.k3s/3.1.content.md)
-* [3.2 如何使用](3.k3s/3.2.content.md)
-* [3.3 架构介绍](3.k3s/3.3.content.md)
-* [3.4 深度调研](3.k3s/3.4.content.md)
-* [3.5 百万集群管理的利器fleet](3.k3s/3.5.content.md)
+* [3.0 大纲](3.k3s/README.md)
+* [3.1 K3s概述](3.k3s/3.1.abstract/3.1.1.content.md)
+* [3.2 如何使用](3.k3s/3.2.using/3.2.1.content.md)
+* [3.3 架构介绍](3.k3s/3.3.Architecture/3.3.1.content.md)
+* [3.4 深度调研](3.k3s/3.4.analyze/3.4.content.md)
+* [3.5 百万集群管理的利器fleet](3.k3s/3.5.fleet/3.5.content.md)
 
 ## 4.kubeedge
 
